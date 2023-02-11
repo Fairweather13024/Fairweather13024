@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Mark. Think of me as a business oriented fullstack engineer with an academic background in artificial intelligence and machine learning.
+I have no public repos because I often work on commercial products.
+If you would like to get to know more about my work schedule a meeting on https://calendly.com/markericfairweather/30min
+
 <!--
 **Fairweather13024/Fairweather13024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
