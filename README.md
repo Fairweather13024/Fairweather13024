@@ -69,7 +69,7 @@ I'm a dextrous full-stack developer with a strong background in Artificial Intel
 
 ## Connect with Me
 
-- 📧 Feel free to reach out via [Email](mailto:mark@example.com) for any inquiries or collaborations.
+- 📧 Feel free to reach out via [Email](mailto:rickyfairweather52@gmail.com) for any inquiries or collaborations.
 - 📅 Schedule a meeting with me on [Calendly](https://calendly.com/markericfairweather/30min) to discuss potential projects or opportunities.
 
 Let's build something amazing together! 😊
