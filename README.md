@@ -50,11 +50,12 @@ I'm a dextrous full-stack developer with a strong background in Artificial Intel
 
 ### Languages:
 - **Python:** 🔥🔥🔥🔥🔥
+- **Typescript:** 🔥🔥🔥🔥
 - **JavaScript:** 🔥🔥🔥🔥
 - **Rust:** 🔥🔥
 - **R:** 🔥🔥
 - **Solidity:** 🔥
-- **Typescript:** 🔥
+
 
 ### Frameworks & Technologies:
 - **MERN Stack:** 🔥🔥🔥🔥
