@@ -7,7 +7,7 @@ I'm a dextrous full-stack developer with a strong background in Artificial Intel
 - 🎓 Graduated from Minerva University with a BSc in Computer Science with Applied Artificial Intelligence (3.84 GPA) in May 2023.
 - 💼 Worked on commercial products, specializing in education marketplaces, multi-tenant apps, and AI/machine learning solutions eg RAG solutions, diffusion models and recommendation engines.
 - 🚀 Experienced in designing scalable, cloud-architected production systems and machine learning systems using GCP, AWS, and Docker.
-- 🌐 Skilled in end-to-end full-stack development with Object-Oriented Languages such as Python, Javascript, Rust, R, and Solidity.
+- 🌐 Skilled in end-to-end full-stack development with Object-Oriented Languages such as Typescript, Python, Javascript, Rust, R, and Solidity.
 - 🌱 Exploring interests in AI/ML recommendation engines, blockchain technology, search engines, and RPAs.
 
 ## Experience
